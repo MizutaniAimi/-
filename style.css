@@ -1,0 +1,47 @@
+.flexbox{
+  height: 100%;
+  width: 100%;
+  display: flex; 
+}
+
+.box1{
+  background: #6A4021;
+  width: 30%;
+  height: 30%;  
+}
+
+.box2{
+  background: #3E2D21;
+  width: 70%;
+  height: 30%;
+}
+
+.box3{
+  background-color:#FAEDED;
+  width: 30%;
+  height: 100%;
+  align-self: stretch;
+}
+
+.flexbox2{
+  height: 100%;
+  width: 100%;
+  display: flex;
+  align-items: flex-end;
+  flex-direction: column; 
+}
+
+
+.box4{
+  background-color:#573F2E;
+  width: 70%;
+  height: 70%;
+
+}
+.box5{
+  background-color:#3E2D21;
+  width: 70%;
+  height: 30%;
+}
+
+
